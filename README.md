@@ -13,6 +13,6 @@ Aplicacion liviana cuya finalidad es subir archivos al servidor desde un cliente
   
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/kioshiokamoto/graphql-file-uploader/blob/main/preview/screen.png?raw=true)
 
   
